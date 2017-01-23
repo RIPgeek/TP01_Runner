@@ -1,0 +1,51 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 560 Ti (ID=0x1200)
+    Vendor:   NVIDIA
+    VRAM:     979 MB
+    Driver:   10.18.13.5445
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.022 seconds
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\etu\Desktop\Moteurs de Jeu\TP 01 - Runner\Runner_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 3120x1920 at 0,-720
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.156103 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.114794 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 715.
+Total: 0.239672 ms (FindLiveObjects: 0.049806 ms CreateObjectMapping: 0.019318 ms MarkObjects: 0.160586 ms  DeleteObjects: 0.009659 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.371885 ms
+
+Unloading 103 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.314834 ms (FindLiveObjects: 0.025053 ms CreateObjectMapping: 0.035015 ms MarkObjects: 0.161794 ms  DeleteObjects: 0.092367 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.287365 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.221863 ms (FindLiveObjects: 0.026865 ms CreateObjectMapping: 0.030487 ms MarkObjects: 0.161794 ms  DeleteObjects: 0.002414 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 6a4 -> priority: 1 
+  Thread -> id: 2268 -> priority: 1 
